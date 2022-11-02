@@ -1,2 +1,5 @@
 # Fileio
-Fileio from CS2 at Kent State University
+C++ Fileio from CS2  
+
+Nathan Fleet  
+Kent State University  
